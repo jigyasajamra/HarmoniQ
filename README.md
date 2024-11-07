@@ -1,14 +1,9 @@
-![Affinity Frontend](./src/assets/AffinityBanner.png)
+# HarmoniQ
 
-<div align="center"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rishyym0927/Affinity_frontend?style=for-the-badge"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/contributors/rishyym0927/Affinity_frontend?style=for-the-badge"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/issues/rishyym0927/Affinity_frontend?style=for-the-badge"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/issues-pr/rishyym0927/Affinity_frontend?style=for-the-badge"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/issues-closed/rishyym0927/Affinity_frontend?style=for-the-badge"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/issues-pr-closed/rishyym0927/Affinity_frontend?style=for-the-badge"></div>
+Welcome to the **HarmoniQ Frontend Repository**!
+This project is part of the larger HarmoniQ platform, focused specifically on frontend development. **HarmoniQ** is a web application designed to connect individuals with similar intellectual levels. The platform leverages an AI-powered chatbot for matchmaking and features various interactive games, such as coding challenges, to match users based on their skill sets. Once matched, users can engage in meaningful conversations, fostering deep intellectual connections.
 
-</div>
-<br>
-
-Welcome to the **Affinity Frontend Repository**!
-This project is part of the larger Affinity platform, focused specifically on frontend development. **Affinity** is a web application designed to connect individuals with similar intellectual levels. The platform leverages an AI-powered chatbot for matchmaking and features various interactive games, such as coding challenges, to match users based on their skill sets. Once matched, users can engage in meaningful conversations, fostering deep intellectual connections.
-
-If you're interested in contributing to the backend of the project, please visit our *[Affinity Backend Repository](https://github.com/Sidharth-Singh10/Affinity-backend)*.
+If you're interested in contributing to the backend of the project, please visit our *[HarmoniQ Backend Repository](https://github.com/Sidharth-Singh10/HarmoniQ-backend)*.
 
 
 <p align="center"><br><br>
@@ -27,7 +22,7 @@ If you're interested in contributing to the backend of the project, please visit
 
 ## Introduction
 
-The Affinity Frontend is a React-based application designed to deliver a smooth and seamless user experience. This repository houses all the code related to the frontend portion of the Affinity project, and all contributions should be focused on this area. The frontend interacts with the backend through API calls to provide matchmaking services, games, and chat functionality for users.
+The HarmoniQ is a React-based application designed to deliver a smooth and seamless user experience. This repository houses all the code related to the frontend portion of the HarmoniQ project, and all contributions should be focused on this area. The frontend interacts with the backend through API calls to provide matchmaking services, games, and chat functionality for users.
 
 ## Features
 
@@ -35,13 +30,6 @@ The Affinity Frontend is a React-based application designed to deliver a smooth 
 - Responsive design
 - Integration with backend APIs
 - Routing with React Router
-
-
-<div align="center"><table><h2 id="preview">Preview</h2><tr><td>
-<img src="./src/assets/Preview1.jpg" alt="Landing"></td><td>
-<img src="./src/assets/Preview2.jpg" alt="Login"></td></tr><tr><td>
-<img src="./src/assets/Preview3.jpg" alt="Register"></td><td>
-<img src="./src/assets/Preview4.jpg" alt="Dashboard"></td></tr></table></div>
 
 ## Technologies Used
 
@@ -57,8 +45,8 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/rishyym0927/Affinity_frontend.git
-    cd Affinity_frontend
+    git clone https://github.com/jigyasajamra/HarmoniQ.git
+    cd HarmoniQ
     ```
 
 2. Install dependencies:
@@ -103,7 +91,7 @@ This will start the development server and you can view the application in your 
 
 ### Routing
 
-**Affinity** is currently under development, so navigation between pages is not yet fully implemented. As a result, there are no buttons or links to direct you to other sections of the platform. However, you can access different pages manually by appending the */* followed by respective *page-route* to the base URL.
+**HarmoniQ** is currently under development, so navigation between pages is not yet fully implemented. As a result, there are no buttons or links to direct you to other sections of the platform. However, you can access different pages manually by appending the */* followed by respective *page-route* to the base URL.
 
 <table align="center">
   <tr>
@@ -156,26 +144,4 @@ This will start the development server and you can view the application in your 
   </tr>
 </table>
 
-
-## Contibutors
-
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=rishyym0927/Affinity_frontend"/>
-</a>
-
-## Contributing
-
-We welcome contributions from the community! Please read our [`CONTRIBUTING.md`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2FLenovo%2FOneDrive%2FDesktop%2FPRACTISE%2Fdfsdfs%2FAffinity_frontend%2FCONTRIBUTING.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%2C%22e29a7936-4f33-4970-9e7f-3e2939a28627%22%5D "c:\Users\Lenovo\OneDrive\Desktop\PRACTISE\dfsdfs\Affinity_frontend\CONTRIBUTING.md") file for detailed guidelines on how to contribute to this project.
-
-### Hacktoberfest and GSSoC 24
-
-This repository is actively participating in Hacktoberfest and GSSoC 24. We welcome contributions, but please note that only frontend-related tasks are open for contribution. Any modifications or changes to the backend will not be considered. Feel free to raise issues and start working on assigned tasks.
-
-
-## Contact
-
-If you have any questions or need further assistance, feel free to open an issue or contact the maintainers.
-
-Thank you for your contributions!
-
-
+### THANKS FOR READING!
