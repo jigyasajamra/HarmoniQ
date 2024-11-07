@@ -15,7 +15,7 @@ const Landing = () => {
       <div className="min-h-12 text-gray-400 h-auto flex flex-row items-center justify-between">
         <div className="text-2xl font-extrabold text-decoration-uppercase ">
           <Link to="/">
-          AFFINITY</Link>
+          HARMONIQ</Link>
        
         </div>
         <div className="flex flex-row gap-4">
